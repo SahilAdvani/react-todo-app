@@ -1,6 +1,6 @@
 # 📝 React Todo App
 
-A simple and responsive Todo List application built with **React**, **Tailwind CSS**, and **React Icons**. The app allows users to manage their daily tasks with an intuitive and clean user interface.
+A simple and responsive Todo List application built with **React**, **Tailwind CSS**, and **React Icons**. The app allows users to manage their daily tasks with an intuitive and clean user interface. Todos are stored in the browser using localStorage, so they remain available even after refreshing or reopening the application.
 
 ## ✨ Features
 
@@ -11,6 +11,8 @@ A simple and responsive Todo List application built with **React**, **Tailwind C
 * 📱 Responsive design
 * 🎨 Clean UI built with Tailwind CSS
 * ⭐ Icons powered by React Icons
+* 💾 Persistent storage using localStorage
+* 🔄 Automatically restores saved todos on page reload
 
 ## 🛠️ Tech Stack
 
@@ -18,6 +20,7 @@ A simple and responsive Todo List application built with **React**, **Tailwind C
 * Tailwind CSS
 * React Icons
 * Vite
+* localStorage (Browser Web Storage API)
 
 ## 📸 Preview
 
