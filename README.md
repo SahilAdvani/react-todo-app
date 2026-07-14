@@ -1,16 +1,111 @@
-# React + Vite
+# 📝 React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo List application built with **React**, **Tailwind CSS**, and **React Icons**. The app allows users to manage their daily tasks with an intuitive and clean user interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* ➕ Add new todos
+* ✏️ Edit existing todos
+* ✅ Mark todos as completed
+* 🗑️ Delete todos
+* 📱 Responsive design
+* 🎨 Clean UI built with Tailwind CSS
+* ⭐ Icons powered by React Icons
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Tailwind CSS
+* React Icons
+* Vite
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Add a screenshot of your application here.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Node.js (v18 or later recommended)
+* npm
+
+### Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/SahilAdvani/react-todo-app.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd react-todo-app
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+```
+
+## 📁 Project Structure
+
+```text
+react-todo-app/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+└── vite.config.js
+```
+
+## 📚 Dependencies
+
+* React
+* Tailwind CSS
+* React Icons
+* Vite
+
+## 🌐 Live Demo
+
+Deployed on Vercel:
+
+> Add your Vercel deployment link here.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
