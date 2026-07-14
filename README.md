@@ -21,7 +21,7 @@ A simple and responsive Todo List application built with **React**, **Tailwind C
 
 ## 📸 Preview
 
-> Add a screenshot of your application here.
+> ![App Screenshot](image.png)
 
 ## 🚀 Getting Started
 
@@ -100,7 +100,7 @@ react-todo-app/
 
 Deployed on Vercel:
 
-> Add your Vercel deployment link here.
+> [https://react-todo-app-omega-ashy.vercel.app/](https://react-todo-app-omega-ashy.vercel.app/)
 
 ## 🤝 Contributing
 
